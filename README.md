@@ -1,8 +1,11 @@
 CSE327.Sec07_Spring24_SLB
+
 Project Name: Car Rental System
+
 Name of all the Group members with ID:
 Tasfia Rahman Akhi  2121623642
 S M Shibly Rahman  2021006642
+
 Projects goals: Our web project will make peoples life easier. Our reserving system will provide you with numerous benefits, including our friendly and helpful customer service, as well as access to our large and diverse fleet of vehicles. To make it easy for you to pick up and return our rental, we have multiple rental stations. We aim to promote a desirable lifestyle as a primary method of resonating with who they are and what they want. Our website will have register user and authentication (Like Register, Log In, Log Out).
 Overview: The name of our project is “Car Rental System”. Our web project will make life easier. Our reserving system will provide you with numerous benefits, including our friendly and helpful customer service, as well as access to our large and diverse fleet of vehicles. To make it easy for you to pick up and return our rental, we have multiple rental stations. We aim to promote a desirable lifestyle as a primary method of resonating with who they are and what they want. Our website will have register user and authentication (Like Register, Log In, Log Out) described below.
 Goals
